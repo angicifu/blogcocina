@@ -1,2 +1,2 @@
 # blogcocina
-blog de musica hecho con Foundation
+blog de cocina hecho con Foundation
